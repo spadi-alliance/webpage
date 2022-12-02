@@ -1,12 +1,23 @@
 
 ---
-title: "Documentation"
-linkTitle: "Documentation"
+title: "SPADI Alliance"
+linkTitle: "SPADI Alliance"
 weight: 20
 menu:
   main:
     weight: 20
 ---
+
+SPADI Alliance へようこそ
+
+この開発共同体は、データ損失ゼロのデータ収集システム構築を目指し、また、その普及によって標準化を目指す組織です。
+
+* データ収集系を更新したいのだけれど、規模が大きくなりすぎて開発しようにも人材も時間も足りない。
+* 作る事自体はよいのだけれど、他の研究者が開発したものと一緒に使うのが大変だ。
+* とにかくさっと使えるデータ収集システムがほしい
+
+このようなニーズに答えるべく、実験原子核物理学コミュニティの研究者を中心に実験スタイルや研究施設、所属機関の壁を超えた共同開発に取り組んでいます。
+
 
 {{% pageinfo %}}
 This is a placeholder page that shows you how to use this template site.
