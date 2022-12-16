@@ -8,9 +8,12 @@ menu:
     weight: 20
 ---
 
-SPADI Alliance へようこそ
+# SPADI Alliance へようこそ
 
-この開発共同体は、データ損失ゼロのデータ収集システム構築を目指し、また、その普及によって標準化を目指す組織です。
+{{% pageinfo %}}
+SPADI Alliance は、将来に渡ってデータ収集システムの開発環境・体制を継続するため、
+データ損失ゼロのデータ収集システム構築し、また、その普及によって標準化を目指す組織です。
+{{% /pageinfo %}}
 
 * データ収集系を更新したいのだけれど、規模が大きくなりすぎて開発しようにも人材も時間も足りない。
 * 作る事自体はよいのだけれど、他の研究者が開発したものと一緒に使うのが大変だ。
@@ -18,18 +21,12 @@ SPADI Alliance へようこそ
 
 このようなニーズに答えるべく、実験原子核物理学コミュニティの研究者を中心に実験スタイルや研究施設、所属機関の壁を超えた共同開発に取り組んでいます。
 
+メーリングリストへの登録は[参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdSp4D-GeUGGy850BywAuEZXFtqLSe_2SuJ7LMnEcFVNZeR9g/viewform)よりお願いいたします。
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+またタスクフォースなどの情報交換には　mattermost　を活用しています。mattermost への登録は参加登録の後、お伝えいたします。
 
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
-
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
 
 
