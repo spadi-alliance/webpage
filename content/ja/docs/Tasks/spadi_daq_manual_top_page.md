@@ -1,11 +1,11 @@
 
 ---
-title: "SPADI Alliance DAQ Package Manual"
-linkTitle: "SPADI Alliance DAQ Package Manual"
+title: "SPADI Alliance manual sandbox"
+linkTitle: "SPADI Alliance manual sandbox"
 weight: 6
-date: 2024-01-31
+date: 2024-02-01
 description: >
-  SPADI Alliance DAQ Package Manual top page
+  Sandbox: SPADI Alliance DAQ Package Manual top page
 ---
 
 {{% pageinfo %}}
