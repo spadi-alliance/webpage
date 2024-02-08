@@ -5,7 +5,7 @@ linkTitle: "SPADI Alliance DAQ Package Manual"
 weight: 6
 date: 2024-01-31
 description: >
-  SPADI Alliance DAQ Package Manual top page
+  SPADI Alliance DAQ パッケージマニュアルトップページ
 ---
 
 {{% pageinfo %}}
