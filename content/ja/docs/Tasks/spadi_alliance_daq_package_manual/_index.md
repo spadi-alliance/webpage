@@ -9,8 +9,9 @@ description: >
 ---
 
 {{% pageinfo %}}
-This is a top page of the SPADI Alliance DAQ pachage Manual
+このドキュメントはSPADIA Allianceで開発したDAQパッケージのマニュアルです。
 {{% /pageinfo %}}
+
 
 Link example, [Docsy User Guide](https://docsy.dev/docs/) with no Tutorials or Concepts pages
 
