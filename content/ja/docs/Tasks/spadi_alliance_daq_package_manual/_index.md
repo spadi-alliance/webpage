@@ -13,7 +13,7 @@ description: >
 {{% /pageinfo %}}
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+![](http://drive.google.com/uc?export=view&id=18tjYYI6Ti5_V5vyEPy6oKNx3oeFaiT3K)
 
 
 Link example, [Docsy User Guide](https://docsy.dev/docs/) with no Tutorials or Concepts pages
