@@ -9,7 +9,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-このドキュメントはSPADIA Allianceで開発したDAQパッケージのマニュアルです。
+このドキュメントはSPADIA Allianceで開発したDAQパッケージのマニュアルです。。
 {{% /pageinfo %}}
 
 
